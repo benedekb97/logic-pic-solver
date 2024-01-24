@@ -1,0 +1,21 @@
+{
+    "name": "benedekb97/logic-pic-solver",
+    "description": "Logic Pic Solver",
+    "type": "project",
+    "require-dev": {
+        "filp/whoops": "^2.15",
+        "larapack/dd": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Benedekb97\\LogicPicSolver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benedek Burgess",
+            "email": "benedekb97@gmail.com"
+        }
+    ],
+    "require": {}
+}
